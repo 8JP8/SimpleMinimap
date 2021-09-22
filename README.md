@@ -1,4 +1,4 @@
-# [Fivem] Simple Minimap without Health and Armour bar [StandAlone]
+# [Fivem] Simple Minimap without Health and Armour bar (StandAlone Script)
 [Fivem] Minimap without Health and Armour bars
 
 📜**Instructions:**📜
