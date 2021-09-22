@@ -1,7 +1,7 @@
 # [Fivem] Simple Minimap without Health and Armour bar (StandAlone Script)
 [Fivem] Minimap without Health and Armour bars
 
-📜**Instructions:**📜
+📜Instructions:📜
 
 - Download the zip file;
 - Put in your FXServer's resources folder;
