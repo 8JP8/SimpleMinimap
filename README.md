@@ -10,8 +10,3 @@
 
 
 😉 Feel free to edit my script if you like. 😉
-
-
-🎁 Support Me: 🎁
-
-[![paypal](https://media.discordapp.net/attachments/822839781481381938/890060488451424296/paypal-donate-button-high-quality-png-300x171_1.png)](https://www.paypal.me/JoaoPedroJP)
